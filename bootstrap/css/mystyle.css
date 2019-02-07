@@ -1,0 +1,40 @@
+.coachinname{
+    font-family: Hobo Std;
+    color: #0089db;
+}
+.coachinaddress{
+    font-family: Lucida Calligraphy;
+    font-weight: bold;
+}
+.coachinmark{
+    font-family: Arial Black;
+    color: red;
+}
+.coachinclass{
+    font-family: Adobe Gothic Std B;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.border{
+   
+}
+
+.navbar-brand>img{
+    margin-top:-15px;
+}
+h4{
+    font-size: 16pt;
+    color:#0075b0;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 20pt;
+    color:#0075b0;
+    font-weight: bold;
+}
+
+.myfooter{
+    background-color:#2c4762;
+    color: white; 
+}
