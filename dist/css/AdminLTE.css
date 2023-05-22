@@ -100,9 +100,9 @@ body {
   z-index: 800;
 }
 .main-footer {
-  background: #fff;
+  /* background: #fff; */
   padding: 15px;
-  color: #444;
+  color: #ffffff;
   border-top: 1px solid #d2d6de;
 }
 /* Fixed layout */

@@ -5,5 +5,5 @@ include 'connection.php';
 include("userheader.php");
 include("userbody.php");
 
-include("footer.php");
+include("userfooter.php");
 ?>

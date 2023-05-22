@@ -1,13 +1,15 @@
-<!-- /.content-wrapper -->
+<section class="myfooter">
+<div class="container ">
+    <!-- /.content-wrapper -->
 <footer class="main-footer ">
-    <div class="row myfooter">
+    <div class="row ">
 
         <div class="col-md-4">
             <h4> Contact Information</h4>
 
             Dhaka Education Board<br>
             Address: 13-14, Joynag Road, Bakshibazar, Dhaka-1211<br>
-            Email : info@dhakaeducationboard.gov.bd<br>
+            Email : jmrashed@gmail.com<br>
             Mobile : 01700000000<br>
         </div>
         <div class="col-md-4">
@@ -26,11 +28,13 @@
             <a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a>
             <a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a>
             <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a><br>
-            <strong>Copyright &copy; 2016 <a href="#">Kamrul Hasan & Tanzila Akhter</a>.</strong> All rights
+            <strong>Copyright &copy; 2016 <a href="#">Md Rasheduzzaman</a>.</strong> All rights
             reserved.
         </div>
     </div>
 </footer>
+</div>
+</section>
 
 <!-- jQuery 2.2.0 -->
 <script src="plugins/jQuery/jQuery-2.2.0.min.js"></script>
